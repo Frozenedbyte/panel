@@ -119,9 +119,9 @@ return [
     ],
     'form_error' => 'De volgende fouten werden gevonden bij het verwerken van dit verzoek.',
     'security' => [
-        '2fa_header' => '2-factor authenticatie',
+        '2fa_header' => 'Twee-factor authenticatie',
         '2fa_qr' => 'Configureer 2FA op uw toestel',
-        'enable_2fa' => 'Zet 2-Factor authenticatie aan',
+        'enable_2fa' => 'Zet Twee-Factor authenticatie aan',
     ],
     'server_name' => 'Server naam',
     'validation_error' => 'Er is een fout opgetreden tijdens het valideren van de data die u heeft opgegeven.',
