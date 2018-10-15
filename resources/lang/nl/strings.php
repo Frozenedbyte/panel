@@ -43,7 +43,7 @@ return [
     'submit' => 'Bevestig',
     'success' => 'Geslaagd',
     'suspended' => 'Geschorst',
-    'username' => 'gebruikersnaam',
+    'username' => 'Gebruikersnaam',
     'whoops' => 'Oeps',
     'yes' => 'Ja',
 ];
