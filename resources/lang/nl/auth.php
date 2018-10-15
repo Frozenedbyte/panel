@@ -2,8 +2,8 @@
 
 return [
     '2fa_failed' => 'De gegeven 2FA token is niet geldig.',
-    '2fa_must_be_enabled' => 'De administrator heeft ingesteld dat je 2-factor authenticatie moet gebruiken voor je acount voordat je het paneel kan gebruiken',
-    '2fa_required' => '2-factor authenticatie',
+    '2fa_must_be_enabled' => 'De administrator heeft ingesteld dat je twee-factor authenticatie moet gebruiken voor je account voordat je het paneel kan gebruiken',
+    '2fa_required' => 'Twee-factor authenticatie',
     'confirmpassword' => 'Bevestig wachtwoord',
     'emailsent' => 'Je wachtwoord herstel e-mail is onderweg.',
     'forgot_password' => 'Ik ben mijn wachtwoord vergeten!',
